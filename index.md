@@ -41,9 +41,9 @@ Our results are as follows:
 <img src="https://latex.codecogs.com/svg.image?\bg_white&space;p(\mathbf&space;x)=-1.4954x_{1}-0.6050x_{2}-2.6590x_{3}-1.2333x_{4}-0.1398x_{1}^2&plus;0.0463x_{1}x_{2}&plus;1.0553x_{1}x_{3}&plus;0.0182x_{1}x_{4}&plus;0.2287x_{2}^2&plus;1.8307x_{2}x_{3}-0.1025x_{2}x_{4}&plus;2.6455x_{3}^2&plus;1.1557x_{3}x_{4}&plus;0.014x_{4}^2" title="\bg_white p(\mathbf x)=-1.4954x_{1}-0.6050x_{2}-2.6590x_{3}-1.2333x_{4}-0.1398x_{1}^2+0.0463x_{1}x_{2}+1.0553x_{1}x_{3}+0.0182x_{1}x_{4}+0.2287x_{2}^2+1.8307x_{2}x_{3}-0.1025x_{2}x_{4}+2.6455x_{3}^2+1.1557x_{3}x_{4}+0.014x_{4}^2" />
 </div>
 
-<center>
+<div align=center>
 [Small NN](/Small_NN/C3)
-</center>
+</div>
 
 #### [B(x)](/Barriers/C3.txt)
 
