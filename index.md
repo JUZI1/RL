@@ -42,13 +42,11 @@ Our results are as follows:
 </div>
 
 <div align=center>
-<font size="35">
- 
+<font size="30">
  <a href="/Small_NN/C3">Small NN</a>
  
  <a href="/Barriers/C3.txt">B(x)</a>
  
  <a href="/Lyapunov/C3.txt">V(x)</a>
- 
 </font>
 </div>
