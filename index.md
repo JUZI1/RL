@@ -42,7 +42,6 @@ Our results are as follows:
 </div>
 
 <div align=center>
-<font size="15">
  <br/>
  <br/>
  <a href="https://github.com/JUZI1/RL/blob/gh-pages/Small_NN/C3">Small NN</a>
@@ -50,5 +49,5 @@ Our results are as follows:
  <a href="https://github.com/JUZI1/RL/blob/gh-pages/Barriers/C3.txt">B(x)</a>
  <br/>
  <a href="https://github.com/JUZI1/RL/blob/gh-pages/Lyapunov/C3.txt">V(x)</a>
-</font>
+
 </div>
