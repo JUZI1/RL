@@ -39,6 +39,6 @@ we get the
 
 #### [Small NN](/Small_NN/C3)
 
-#### [B(x)](/Barriers/C3)
+#### [B(x)](/Barriers/C3.txt)
 
-#### [V(x)](/Lyapunov/C3)
+#### [V(x)](/Lyapunov/C3.txt)
