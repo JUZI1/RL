@@ -42,7 +42,7 @@ Our results are as follows:
 </div>
 
 <div align=center>
-<font size="20">
+<font size="15">
  <a href="https://github.com/JUZI1/RL/blob/gh-pages/Small_NN/C3">Small NN</a>
  <br/>
  <a href="https://github.com/JUZI1/RL/blob/gh-pages/Barriers/C3.txt">B(x)</a>
