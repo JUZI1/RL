@@ -44,11 +44,9 @@ Our results are as follows:
 <div align=center>
 <font size="35">
  <a href="/Small_NN/C3">Small NN</a>
+ 
  <a href="/Barriers/C3.txt">B(x)</a>
+ 
  <a href="/Lyapunov/C3.txt">V(x)</a>
 </font>
 </div>
-
-#### [B(x)](/Barriers/C3.txt)
-
-#### [V(x)](/Lyapunov/C3.txt)
