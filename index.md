@@ -45,7 +45,7 @@ Our results are as follows:
 <font size="20">
  <a href="/Small_NN/C3">Small NN</a>
  <br/>
- <a href="/Barriers/C3.txt">B(x)</a>
+ <a href="https://github.com/JUZI1/RL/blob/gh-pages/Barriers/C3.txt">B(x)</a>
  <br/>
  <a href="/Lyapunov/C3.txt">V(x)</a>
 </font>
