@@ -42,7 +42,7 @@ Our results are as follows:
 </div>
 
 <div align=center onclick="window.open('/Small_NN/C3')">
-Small NN
+### Small NN
 </div>
 
 #### [B(x)](/Barriers/C3.txt)
