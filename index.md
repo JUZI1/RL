@@ -43,10 +43,10 @@ Our results are as follows:
 
 <div align=center>
 <font size="20">
- <a href="https://github.com/JUZI1/RL/Small_NN/C3">Small NN</a>
+ <a href="/Small_NN/C3">Small NN</a>
  <br/>
- <a href="https://github.com/JUZI1/RL/Barriers/C3.txt">B(x)</a>
+ <a href="/Barriers/C3.txt">B(x)</a>
  <br/>
- <a href="https://github.com/JUZI1/RL/Lyapunov/C3.txt">V(x)</a>
+ <a href="/Lyapunov/C3.txt">V(x)</a>
 </font>
 </div>
