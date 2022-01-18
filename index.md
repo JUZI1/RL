@@ -4,7 +4,7 @@ Now we will show our 10 examples below
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ### c1
-![](http://latex.codecogs.com/gif.latex?\\sigma=\sqrt{\frac{1}{n}{\sum_{k=1}^n(x_i-\bar{x})^2}})
+<img src="https://latex.codecogs.com/svg.image?a^2&plus;b^2=c^2" title="a^2+b^2=c^2" />
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
