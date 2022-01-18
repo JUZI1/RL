@@ -44,9 +44,9 @@ Our results are as follows:
 <div align=center>
 <font size="30">
  <a href="/Small_NN/C3">Small NN</a>
- 
+ <br/>
  <a href="/Barriers/C3.txt">B(x)</a>
- 
+ <br/>
  <a href="/Lyapunov/C3.txt">V(x)</a>
 </font>
 </div>
