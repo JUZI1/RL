@@ -1,7 +1,7 @@
 # Benchmark Example
 
 Now we will show our 10 examples below.
-## C1:Cartpole system
+## C<sup>1</sup>:Cartpole system
 The equation of motion for cartpole system is
 
 <div align=center>
