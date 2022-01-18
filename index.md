@@ -9,15 +9,17 @@ The equation of motion for cartpole system is
 </div>
 
 with the constants set as
-
+<div align=center>
 <img src="https://latex.codecogs.com/svg.image?m_c=1,m_p=1,m_p=1,g=1,l=1" title="m_c=1,m_p=1,m_p=1,g=1,l=1" />
-
+</div>
 Define the state space
-
+<div align=center>
 <img src="https://latex.codecogs.com/svg.image?\mathbf&space;x&space;=[x,\theta,\dot{x},\dot{\theta}]&space;" title="\mathbf x =[x,\theta,\dot{x},\dot{\theta}] " />
-
+</div>
 where
+<div align=center>
 <img src="https://latex.codecogs.com/svg.image?\bg_white&space;\Psi=\{\mathbf&space;x&space;\in&space;\mathbb{R}^4&space;\,|\,&space;[-1.3,-1.3,-1.3,-1.3]^T\leq\mathbf&space;x&space;\leq&space;[1.3,1.3,1.3,1.3]^T\}" title="\bg_white \Psi=\{\mathbf x \in \mathbb{R}^4 \,|\, [-1.3,-1.3,-1.3,-1.3]^T\leq\mathbf x \leq [1.3,1.3,1.3,1.3]^T\}" />
+</div>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
