@@ -38,7 +38,7 @@ we get the
 </div>
 
 <div align=center>
-[<img src="https://latex.codecogs.com/svg.image?\bg_white&space;B(\mathbf&space;x)" title="\bg_white B(\mathbf x)" />](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![<img src="https://latex.codecogs.com/svg.image?\bg_white&space;B(\mathbf&space;x)" title="\bg_white B(\mathbf x)" />](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 </div>
 
 <div align=center>
