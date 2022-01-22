@@ -1,4 +1,16 @@
 # Benchmark Example
+<!-- <embed src="https://github.com/JUZI1/RL/Appendix.pdf" width="500" height="375"></embed>
+
+<OBJECT data="YourFile.pdf" TYPE="application/x-pdf" TITLE="SamplePdf"
+WIDTH=200 HEIGHT=100>
+<a href="YourFile.pdf">shree</a>
+</object> -->
+
+<object data="https://github.com/JUZI1/RL/Appendix.pdf" type="application/pdf" width="700px" height="700px"> 
+    <embed src="http://yoursite.com/the.pdf"> 
+     This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p> 
+    </embed> 
+</object> 
 
 Now we will show our 10 examples below.
 ## C<sub>3</sub>:&nbsp;&nbsp;Cartpole system.
