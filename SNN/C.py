@@ -25,7 +25,7 @@ class Model(nn.Module):
         return x
 
 model=Model(inputs[example_id],hiddens[example_id],outputs[example_id],u_bounds[example_id])
-model.load_state_dict(torch.load("cofe/SNN/model_{}.pth".format(example_id)))
+model.load_state_dict(torch.load("SNN/model/model_{}.pth".format(example_id)))
 print('w1:',model.state_dict()['dense.0.weight'])
 print('b1:',model.state_dict()['dense.0.bias'])
 print('----------------------------------------------------------------------------------------')
